@@ -1,0 +1,2 @@
+Quando executei o exercício número 3, o resultado da divisão foi arredondado para 0, mas quando passei tipo das variáveis a,b e c 
+para float, o resultado da divisão foi exato, 0,75. Quando usei double no exercício 5 obtive o mesmo retorno que o do exercício 4.
