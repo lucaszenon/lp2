@@ -1,0 +1,9 @@
+Tipo abstrato de Dados: é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados. 
+Além disso, é uma metodologia de programação que tem como proposta reduzir a informação necessária para a criação/programação 
+de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza. 
+
+Classe: É um tipo abstrato de dados, é estática e nela definimos um conjunto de atributos e métodos.
+
+Objeto: É uma instância da classe, com conceito dinâmico onde damos vida à classe.
+
+Mensagem: ?
