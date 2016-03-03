@@ -1,0 +1,2 @@
+O propósito é instanciar o objeto, seja em alguma variavel de referência ou somente na memória.
+Quando essa palavra é utilizada o construtor da classe da instância é chamado.
