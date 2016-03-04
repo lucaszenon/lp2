@@ -6,4 +6,4 @@ Classe: É um tipo abstrato de dados, é estática e nela definimos um conjunto 
 
 Objeto: É uma instância da classe, com conceito dinâmico onde damos vida à classe.
 
-Mensagem: ?
+Mensagem: É chamar um método
